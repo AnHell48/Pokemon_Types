@@ -1,0 +1,8 @@
+C:\Users\alexi_000\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Release\PKM_Strgs-Wkns.exe.config
+C:\Users\alexi_000\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Release\PKM_Strgs-Wkns.exe
+C:\Users\alexi_000\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Release\PKM_Strgs-Wkns.pdb
+C:\Users\alexi_000\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Release\PKM_Strgs_Wkns.Form1.resources
+C:\Users\alexi_000\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Release\PKM_Strgs_Wkns.Properties.Resources.resources
+C:\Users\alexi_000\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Release\PKM_Strgs-Wkns.csproj.GenerateResource.Cache
+C:\Users\alexi_000\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Release\PKM_Strgs-Wkns.exe
+C:\Users\alexi_000\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Release\PKM_Strgs-Wkns.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="PKM_Strgs-Wkns\PKM_Strgs-Wkns.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PKM_Strgs-Wkns\Form1.cs">
+    <Files>
+      <File FileName="PKM_Strgs-Wkns\Form1.cs" Line="10" Column="25" />
+      <File FileName="PKM_Strgs-Wkns\gtk-gui\generated.cs" Line="7" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PKM__Strgs-Wkns PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,38 @@
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.exe.config
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.exe
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.pdb
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.csprojResolveAssemblyReference.cache
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs_Wkns.Form1.resources
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs_Wkns.Properties.Resources.resources
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.csproj.GenerateResource.Cache
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.exe
+c:\users\alexi_000\documents\visual studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs_Wkns.Properties.Resources.resources
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs_Wkns.Form1.resources
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.csprojAssemblyReference.cache
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs_Wkns.Form1.resources
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs_Wkns.Properties.Resources.resources
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.exe
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.pdb
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.exe.config
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.exe
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\PKM_Strgs-Wkns.pdb
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\atk-sharp.dll
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\gdk-sharp.dll
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\glib-sharp.dll
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\gtk-sharp.dll
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\pango-sharp.dll
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\atk-sharp.pdb
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\gdk-sharp.pdb
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\glib-sharp.pdb
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\bin\Debug\pango-sharp.pdb
+C:\Users\alexi\Desktop\projects guthub\PKM_Strgs-Wkns\PKM_Strgs-Wkns\obj\Debug\PKM_Strgs-Wkns.csproj.CopyComplete
